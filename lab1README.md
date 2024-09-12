@@ -1,6 +1,6 @@
 # Lab 1
 
-1: Download the given files
+1: Download the given files\n
 2: Make sure the hierachy of your folders are in order and upload the files to their respective places.
 3: Then in the codespace you need to change the the directory to be in said folder.
 4: Run this command to compile all .java files in your c folder: javac -d out src/c/*.java
